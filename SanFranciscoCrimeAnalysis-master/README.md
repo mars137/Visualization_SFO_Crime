@@ -9,5 +9,7 @@ This repository hosts a report from my analysis on the crime incident data provi
 You can view the report [here][report]. If you have jupyter notebook installed you can also clone the repository and run
 an interactive version of the report using the `report.ipynb` file. All the scripts are also included separately inside the folder scripts.
 
+[report]: https://github.com/mars137/Visualization_SFO_Crime/blob/master/SanFranciscoCrimeAnalysis-master/report.ipynb
+
 
 
